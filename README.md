@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liyuan Guo</h1>
-<h3 align="center">Full-Stack Developer & Software Engineer | JHU'23</h3>
+<h3 align="center">Full-Stack Developer & Software Engineer | HKUST'25 & JHU'23</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
