@@ -26,6 +26,30 @@ My work includes transaction-safe imports, JWT/OTP authentication, admin authori
 - **Autonomous navigation:** Developed an endoscope navigation agent for dynamic environments, with Prof. Nevin L. Zhang at HKUST and NVIDIA Hong Kong.
 - **Co-first author, SemEval 2025:** [Ustnlp16 at SemEval-2025 Task 9: Improving Model Performance through Imbalance Handling and Focal Loss](https://aclanthology.org/2025.semeval-1.200/), pp. 1522–1527.
 
+## Languages & tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React and React Native" title="React and React Native" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/django/django-plain-wordmark.svg" alt="Django" title="Django" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="42" height="42" />
+</p>
+
 ## Technical focus
 
 - **Languages:** Go, TypeScript, JavaScript, Python, Java, C/C++, SQL
